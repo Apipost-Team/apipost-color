@@ -1,0 +1,28 @@
+{
+  "name": "apipost-color",
+  "version": "1.0.0",
+  "description": "a library for javascript to  generate new color by level",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apipost-Team/color.git"
+  },
+  "keywords": [
+    "apipost-color"
+  ],
+  "author": "Apipost-Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apipost-Team/color/issues"
+  },
+  "homepage": "https://github.com/Apipost-Team/color#readme",
+  "dependencies": {
+    "color": "^4.2.3"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
